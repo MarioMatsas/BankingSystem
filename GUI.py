@@ -1,7 +1,6 @@
 # Imports
 from tkinter import *
 from PIL import ImageTk, Image 
-import os
 import json
 from random import randrange
 from datetime import datetime
